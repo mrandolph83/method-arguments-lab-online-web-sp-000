@@ -1,5 +1,5 @@
-def introduction(name, language)
-  puts "Hi my name is #{name}. I speak #{language}"
+def introduction(name)
+  puts "Hi my name is #{name}."
 end
 
-introduction(Josh, English)
+introduction(Josh)
